@@ -1,0 +1,22 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.first_div {
+  background-color: red;
+  display: inline-block;
+
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.btn {
+  cursor: pointer;
+  margin : 20px;
+}
+li{
+    list-style:none;
+    display: inline-block;
+    margin: 0 20px;
+}
